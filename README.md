@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Intro
 
-<!--
-**Meeran-Dev/Meeran-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Meeran, an AI/ML Enthusiast and a 2nd-Year CSE Student. Currently exploring AI, Web and Game Dev, as well as Open Source.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++, C#
+- **Web Dev**: Flask
+- **Libraries**: Pandas and NumPy, also learning Matplotlib
+- **Tools**: Git, Github, VS Code
+
+- **Game Dev**: Unity (2D/3D), Blender
+
+## 🎯 Interests
+
+- Data Science
+- AI / ML
+- Backend Development
+- Game Development
+
+## Cool Projects
+
+(W.I.P...)
