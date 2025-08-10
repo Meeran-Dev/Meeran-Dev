@@ -6,7 +6,7 @@ Hey, I'm Meeran, an AI/ML Enthusiast and a 2nd-Year CSE Student. Currently explo
 
 - **Languages**: Python, C++, C#
 - **Web Dev**: Flask
-- **Libraries**: Pandas and NumPy, also learning Matplotlib
+- **Libraries**: Pandas, Matplotlib
 - **Tools**: Git, Github, VS Code
 
 - **Game Dev**: Unity (2D/3D), Blender
@@ -15,7 +15,6 @@ Hey, I'm Meeran, an AI/ML Enthusiast and a 2nd-Year CSE Student. Currently explo
 
 - Data Science
 - AI / ML
-- Backend Development
 - Game Development
 
 ## Cool Projects
