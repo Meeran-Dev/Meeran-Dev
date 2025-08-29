@@ -6,7 +6,7 @@ Hey, I'm Meeran, an AI/ML Enthusiast and a 2nd-Year CSE Student. Currently explo
 
 - **Languages**: Python, C++, C#
 - **Web Dev**: Flask
-- **Libraries**: Pandas, Matplotlib
+- **Libraries**: Pandas, Matplotlib, Scikit-learn
 - **Tools**: Git, Github, VS Code
 
 - **Game Dev**: Unity (2D/3D), Blender
