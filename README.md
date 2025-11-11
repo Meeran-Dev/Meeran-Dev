@@ -1,8 +1,8 @@
 ## 👋 Intro
 
-I'm Meeran, a CSE Student~
-My main programming language is Python
-Currently focusing on Machine and Deep Learning, but i also love experimenting with anything i find cool
+I'm Meeran, a CSE Student~  
+My main programming language is Python  
+Currently focusing on Machine and Deep Learning, but i also love experimenting with anything i find cool  
 
 ### Connect with me:
 
