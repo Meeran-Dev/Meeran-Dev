@@ -6,5 +6,5 @@ Currently focusing on Machine and Deep Learning, but i also love experimenting w
 
 ### Connect with me:
 
-LinkedIn: [Mohd Meeran](www.linkedin.com/in/mohd-meeran-md1151)
+LinkedIn: [Mohd Meeran](www.linkedin.com/in/mohd-meeran-md1151)  
 Email: mdmeeran.86684@gmail.com
