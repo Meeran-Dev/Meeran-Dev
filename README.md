@@ -1,22 +1,10 @@
 ## 👋 Intro
 
-Hey, I'm Meeran, an AI/ML Enthusiast and a 2nd-Year CSE Student. Currently exploring AI, Web and Game Dev, as well as Open Source.
+I'm Meeran, a CSE Student~
+My main programming language is Python
+Currently focusing on Machine and Deep Learning, but i also love experimenting with anything i find cool
 
-## 🛠️ My Tech Stack
+### Connect with me:
 
-- **Languages**: Python, C++, C#
-- **Web Dev**: Flask
-- **Libraries**: Pandas, Matplotlib, Scikit-learn
-- **Tools**: Git, Github, VS Code
-
-- **Game Dev**: Unity (2D/3D), Blender
-
-## 🎯 Interests
-
-- Data Science
-- AI / ML
-- Game Development
-
-## Cool Projects
-
-(W.I.P...)
+LinkedIn: [Mohd Meeran](www.linkedin.com/in/mohd-meeran-md1151)
+Email: mdmeeran.86684@gmail.com
