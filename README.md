@@ -27,7 +27,7 @@
 <a href="https://github.com/features/actions">
   <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
 </a><br><br>
-<img src="https://komarev.com/ghpvc/?username=mdmee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Meeran-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
 <h2>🛠️ Tech Stack</h2>
